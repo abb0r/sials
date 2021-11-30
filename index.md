@@ -1,3 +1,4 @@
 # Gaming
-Tired of searching for all the download links for your game launchers? Here are the most important ones.
+Probably all you need for your shiny new gaming PC.
+## Launchers
 - [Steam](https://store.steampowered.com/about/)
