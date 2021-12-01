@@ -1,5 +1,17 @@
+## Software
+Apps you'll most likely use.
+
+### Browsers
+- [Firefox](https://www.mozilla.org/de/firefox/all/) (Windows, Linux, macOS) - The browser you should use, if you don't want to use Chrome.
+- [Brave](https://brave.com/download/) (Windows, Linux, macOS) - The browser you can use, if you want to use Chrome.
+
+### E-Mail
+- [Thunderbird](https://www.thunderbird.net/en-US/thunderbird/all/) (Windows, Linux, macOS) - Open source E-Mail software.
+
+
 ## Gaming
 Probably all you need for your shiny new gaming PC.
+
 ### Launchers
 - [GOG Galaxy](https://www.gogalaxy.com) (Windows, macOS) -  All games in the store are DRM free. You can connect other launchers, so you have all your games in one place.
 - [Steam](https://store.steampowered.com/about/) (Windows, Linux, MacOS) - Doesn't really need a explanation.
