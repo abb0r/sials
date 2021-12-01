@@ -8,7 +8,7 @@ Probably all you need for your shiny new gaming PC.
 - [Battle.net](https://www.blizzard.com/de-de/apps/battle.net/desktop) (Windows, macOS) - Launcher for Activision-Blizzard games.
 - [EA App](https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe) (Windows (Beta)) - The place for all your puchased EA games and your EA Play or EA Play Pro subscription.
 - [Rockstar Launcher](https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe) (Windows) - All your Rockstar games in one place.
-- [Bethesda Launcher](https://bethesda.net/de/game/bethesda-launcher) (Windows) - launcher for your Bethesda games, if you're not using XBox Game Pass.
+- [Bethesda Launcher](https://bethesda.net/de/game/bethesda-launcher) (Windows) - Launcher for your Bethesda games, if you're not using XBox Game Pass.
 - [Wargaming Game Center](https://wargaming.net/en/wgc) (Windows, macOS) - World of Tanks, World of Warships, etc.
 - [itch.io App](https://itch.io/app) (Windows, Linux, macOS) - Launcher for all sorts of Indie games.
 
